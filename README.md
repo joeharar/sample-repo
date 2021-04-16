@@ -1,3 +1,3 @@
-# HEADER HERE/TITLE
+# SAMPLE TITLE
 
 Create some instruction
